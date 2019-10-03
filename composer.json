@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/computer_store_template",
+    "name": "OpenMageModuleFostering\/computer_store_template",
     "type": "magento-module",
     "license": "Open-Software-License",
     "homepage": "",
     "description": "Computer Store Template",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
