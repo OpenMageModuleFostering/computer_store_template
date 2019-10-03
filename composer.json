@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/computer_store_template",
+    "name": "openmage-module-fostering\/computer_store_template",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Computer Store Template",
     "authors": [
